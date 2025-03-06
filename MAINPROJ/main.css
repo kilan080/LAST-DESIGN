@@ -210,11 +210,13 @@ nav li:hover {
   display: grid;
   margin: 0 auto;
   grid-template-columns: repeat(auto-fit, minmax(80px, 1fr));
+  cursor: pointer;
 }
 .contact_way {
   display: flex;
   gap: 1rem;
   align-items: center;
+  cursor: pointer;
 }
 
 .contact_way i {
@@ -231,6 +233,7 @@ nav li:hover {
   display: grid;
   margin: 0 auto;
   grid-template-columns: repeat(auto-fit, minmax(80px, 1fr));
+  cursor: pointer;
 }
 
 /* Footer */
